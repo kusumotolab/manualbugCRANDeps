@@ -7,3 +7,5 @@ minus <- function(a, b)
 
 countPrime <- function(a)
     return(primeCount(a))
+
+# a
